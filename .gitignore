@@ -6,7 +6,7 @@ Pipfile.lock
 
 
 poetry.lock
-pyproject.toml
+pyproject.toml 
 
 
 # Created by https://www.gitignore.io/api/linux,macos,python,windows,jupyternotebook
